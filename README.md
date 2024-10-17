@@ -1,1 +1,1 @@
-# Attack to Neural Network implementation on Chip Whisperer
+# Attack on Neural Network: Implementation on Chip Whisperer
