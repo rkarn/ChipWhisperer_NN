@@ -34,7 +34,7 @@ This framework is designed with ease of use in mind, particularly for educationa
    - `https://documents.uow.edu.au/~phung/avr/guides/Getting-started-C-programming-Microchip-Studio-7.pdf`.
    - `https://www.youtube.com/watch?v=YJTF662ugVs`
 
-2.Neural Network Training and Validation:
+2. Neural Network Training and Validation:
   - `https://www.allaboutcircuits.com/technical-articles/training-dataset-neural-network-how-to-train-validate-python-neural-network/`.
   - `https://kitchell.github.io/DeepLearningTutorial/8evaluatingnns.html`.
   - `https://towardsdatascience.com/neural-network-for-software-engineers-2-mini-batch-training-and-validation-46ee0a1269a0`.
