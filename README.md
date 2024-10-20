@@ -27,3 +27,19 @@ This framework is designed with ease of use in mind, particularly for educationa
 - Comprehensive Documentation: Each Jupyter notebook includes detailed explanations and comments to guide you through the process.
 - Integrated Hardware: The ChipWhisperer-Lite board integrates all necessary components for side-channel analysis, eliminating the need for additional equipment like oscilloscopes and power meters.
 - Open-Source: The entire framework is open-source, allowing you to explore, modify, and extend the code to suit your educational needs.
+
+## Tutorial Links:
+1. Embedded System: Run C code in microcontroller.
+   - `https://medium.com/geekculture/how-to-learn-c-c-for-microcontroller-programming-60324c4fec09`.
+   - `https://documents.uow.edu.au/~phung/avr/guides/Getting-started-C-programming-Microchip-Studio-7.pdf`.
+   - `https://www.youtube.com/watch?v=YJTF662ugVs`
+2.Neural Network Training and Validation:
+  - `https://www.allaboutcircuits.com/technical-articles/training-dataset-neural-network-how-to-train-validate-python-neural-network/`.
+  - `https://kitchell.github.io/DeepLearningTutorial/8evaluatingnns.html`.
+  - `https://towardsdatascience.com/neural-network-for-software-engineers-2-mini-batch-training-and-validation-46ee0a1269a0`.
+3. Power Side-channel Analysis:
+  - `https://github.com/newaetech/chipwhisperer-jupyter/tree/master/courses/sca101`
+  - `https://github.com/newaetech/chipwhisperer-jupyter/tree/master/courses/sca201`
+4. Large Language Model:
+  - `https://medium.com/thedeephub/llm-prompt-engineering-for-beginners-what-it-is-and-how-to-get-started-0c1b483d5d4f`.
+  - `https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/prompt-engineering` 
