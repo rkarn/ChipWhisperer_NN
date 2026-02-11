@@ -4,6 +4,10 @@
 ## Overview
 This repository contains the framework and resources for performing power side-channel analysis on neural network (NN) implementations using the ChipWhisperer platform. This work is designed to be an educational tool for university students, providing hands-on experience with side-channel attacks and hardware security.
 
+This repository has source code for the following publication:
+
+`Karn, Rupesh Raj, Prithwish Basu Roy, Johann Knechtel, and Ozgur Sinanoglu. "Educational Framework for Power Side-Channel Attacks on Neural Networks in Embedded Systems." In 2025 IEEE International Symposium on Circuits and Systems (ISCAS), pp. 1-5. IEEE, 2025.`
+
 ## Prerequisites
 Before you begin, ensure you have the following prerequisites installed:
 
